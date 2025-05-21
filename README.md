@@ -7,7 +7,7 @@ Este repositorio contiene la implementación completa del proyecto "Reto Final" 
 
 🔄 Topología de Red
 
-![Captura de pantalla](img/captura.png)
+![Captura de pantalla](img/captura.jpg)
 
 📋 Descripción del Proyecto
 
