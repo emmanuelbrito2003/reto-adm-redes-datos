@@ -53,6 +53,7 @@ Servicios: systemd, rsyslog, chrony
 ├── docs/               # Documentación adicional
 
 └── img/                # Imágenes para documentación
+
 📋 Requisitos
 
 Dispositivos Cisco (físicos o simulados en GNS3/EVE-NG/Packet Tracer)
