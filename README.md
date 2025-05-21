@@ -7,7 +7,7 @@ Este repositorio contiene la implementación completa del proyecto "Reto Final" 
 
 🔄 Topología de Red
 
-
+![Captura de pantalla](img/captura.png)
 
 📋 Descripción del Proyecto
 
@@ -67,6 +67,7 @@ Configurar el servidor Zabbix según instrucciones en parte2
 Desplegar la API REST siguiendo los pasos en parte3/README.md
 
 👨‍💻 Autores
+
 Emmanuel Brito, Miguel Alvarez, Carlos Centeno
 
 Universidad Católica de Cuenca - Administración de Redes de Datos - 2025
