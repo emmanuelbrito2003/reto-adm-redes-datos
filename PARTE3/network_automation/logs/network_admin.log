@@ -1,0 +1,524 @@
+2025-05-17 11:07:25,346 - network_admin - INFO - Escaneando interfaces de routers...
+2025-05-17 11:07:25,346 - network_admin - INFO - Conectando a 192.168.1.250...
+2025-05-17 11:07:25,366 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:07:25,879 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:07:25,905 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:07:26,183 - network_admin - INFO - Conexión exitosa a 192.168.1.250
+2025-05-17 11:07:26,310 - network_admin - INFO - Escaneadas 3 interfaces de R1
+2025-05-17 11:07:26,310 - network_admin - INFO - Conectando a 192.168.1.242...
+2025-05-17 11:07:26,330 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:07:26,626 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:07:26,654 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:07:26,894 - network_admin - INFO - Conexión exitosa a 192.168.1.242
+2025-05-17 11:07:27,030 - network_admin - INFO - Escaneadas 6 interfaces de R2
+2025-05-17 11:07:27,030 - network_admin - INFO - Conectando a 172.16.0.1...
+2025-05-17 11:07:27,058 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:07:27,553 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:07:27,580 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:07:27,851 - network_admin - INFO - Conexión exitosa a 172.16.0.1
+2025-05-17 11:07:27,998 - network_admin - INFO - Escaneadas 6 interfaces de R3
+2025-05-17 11:07:27,998 - network_admin - INFO - Escaneando interfaces de switches...
+2025-05-17 11:07:27,998 - network_admin - INFO - Conectando a 172.16.0.4...
+2025-05-17 11:07:28,059 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:07:28,443 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:07:28,462 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:07:28,788 - network_admin - INFO - Conexión exitosa a 172.16.0.4
+2025-05-17 11:07:28,997 - network_admin - INFO - Escaneadas 1 interfaces de Switch5
+2025-05-17 11:07:28,997 - network_admin - INFO - Conectando a 172.16.0.3...
+2025-05-17 11:07:29,049 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:07:29,435 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:07:29,452 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:07:29,802 - network_admin - INFO - Conexión exitosa a 172.16.0.3
+2025-05-17 11:07:29,978 - network_admin - INFO - Escaneadas 1 interfaces de Switch6
+2025-05-17 11:07:29,979 - network_admin - INFO - Conectando a 172.16.0.2...
+2025-05-17 11:07:30,019 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:07:30,509 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:07:30,521 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:07:30,801 - network_admin - INFO - Conexión exitosa a 172.16.0.2
+2025-05-17 11:07:30,947 - network_admin - INFO - Escaneadas 1 interfaces de Switch7
+2025-05-17 11:07:30,947 - network_admin - INFO - Conectando a 192.168.0.130...
+2025-05-17 11:07:30,976 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:07:31,286 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:07:31,300 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:07:31,569 - network_admin - INFO - Conexión exitosa a 192.168.0.130
+2025-05-17 11:07:31,704 - network_admin - INFO - Escaneadas 1 interfaces de Switch8
+2025-05-17 11:07:31,704 - network_admin - INFO - Conectando a 192.168.0.2...
+2025-05-17 11:07:31,734 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:07:32,055 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:07:32,067 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:07:32,384 - network_admin - INFO - Conexión exitosa a 192.168.0.2
+2025-05-17 11:07:32,561 - network_admin - INFO - Escaneadas 1 interfaces de Switch9
+2025-05-17 11:32:07,434 - network_admin - INFO - Probando desde R1 a 8.8.8.8...
+2025-05-17 11:32:07,434 - network_admin - INFO - Conectando a 192.168.1.250...
+2025-05-17 11:32:07,455 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:32:07,950 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:32:07,967 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:32:08,228 - network_admin - INFO - Conexión exitosa a 192.168.1.250
+2025-05-17 11:32:08,534 - network_admin - INFO - Probando desde R2 a 8.8.8.8...
+2025-05-17 11:32:08,535 - network_admin - INFO - Conectando a 192.168.1.242...
+2025-05-17 11:32:08,552 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:32:08,853 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:32:08,872 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:32:09,116 - network_admin - INFO - Conexión exitosa a 192.168.1.242
+2025-05-17 11:32:09,425 - network_admin - INFO - Probando desde R3 a 8.8.8.8...
+2025-05-17 11:32:09,425 - network_admin - INFO - Conectando a 172.16.0.1...
+2025-05-17 11:32:09,441 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:32:09,924 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:32:09,945 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:32:10,206 - network_admin - INFO - Conexión exitosa a 172.16.0.1
+2025-05-17 11:32:10,472 - network_admin - INFO - Probando desde Switch5 a 8.8.8.8...
+2025-05-17 11:32:10,472 - network_admin - INFO - Conectando a 172.16.0.4...
+2025-05-17 11:32:10,498 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:32:10,810 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:32:10,823 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:32:11,136 - network_admin - INFO - Conexión exitosa a 172.16.0.4
+2025-05-17 11:32:11,453 - network_admin - INFO - Probando desde Switch6 a 8.8.8.8...
+2025-05-17 11:32:11,453 - network_admin - INFO - Conectando a 172.16.0.3...
+2025-05-17 11:32:11,484 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:32:11,992 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:32:12,004 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:32:12,328 - network_admin - INFO - Conexión exitosa a 172.16.0.3
+2025-05-17 11:32:12,670 - network_admin - INFO - Probando desde Switch7 a 8.8.8.8...
+2025-05-17 11:32:12,671 - network_admin - INFO - Conectando a 172.16.0.2...
+2025-05-17 11:32:12,694 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:32:12,990 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:32:12,996 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:32:13,276 - network_admin - INFO - Conexión exitosa a 172.16.0.2
+2025-05-17 11:32:13,561 - network_admin - INFO - Probando desde Switch8 a 8.8.8.8...
+2025-05-17 11:32:13,561 - network_admin - INFO - Conectando a 192.168.0.130...
+2025-05-17 11:32:13,583 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:32:13,874 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:32:13,879 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:32:14,182 - network_admin - INFO - Conexión exitosa a 192.168.0.130
+2025-05-17 11:32:14,473 - network_admin - INFO - Probando desde Switch9 a 8.8.8.8...
+2025-05-17 11:32:14,473 - network_admin - INFO - Conectando a 192.168.0.2...
+2025-05-17 11:32:14,492 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:32:14,781 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:32:14,790 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:32:15,069 - network_admin - INFO - Conexión exitosa a 192.168.0.2
+2025-05-17 11:43:55,312 - network_admin - INFO - Probando desde R1 a 8.8.8.8...
+2025-05-17 11:43:55,313 - network_admin - INFO - Conectando a 192.168.1.250...
+2025-05-17 11:43:55,337 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:43:55,653 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:43:55,675 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:43:55,918 - network_admin - INFO - Conexión exitosa a 192.168.1.250
+2025-05-17 11:43:56,187 - network_admin - INFO - Probando desde R2 a 8.8.8.8...
+2025-05-17 11:43:56,188 - network_admin - INFO - Conectando a 192.168.1.242...
+2025-05-17 11:43:56,210 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:43:56,715 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:43:56,736 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:43:56,977 - network_admin - INFO - Conexión exitosa a 192.168.1.242
+2025-05-17 11:43:57,256 - network_admin - INFO - Probando desde R3 a 8.8.8.8...
+2025-05-17 11:43:57,256 - network_admin - INFO - Conectando a 172.16.0.1...
+2025-05-17 11:43:57,269 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:43:57,576 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:43:57,595 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:43:57,836 - network_admin - INFO - Conexión exitosa a 172.16.0.1
+2025-05-17 11:43:58,093 - network_admin - INFO - Probando desde Switch5 a 8.8.8.8...
+2025-05-17 11:43:58,093 - network_admin - INFO - Conectando a 172.16.0.4...
+2025-05-17 11:43:58,120 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:43:58,448 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:43:58,459 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:43:58,738 - network_admin - INFO - Conexión exitosa a 172.16.0.4
+2025-05-17 11:43:59,031 - network_admin - INFO - Probando desde Switch6 a 8.8.8.8...
+2025-05-17 11:43:59,031 - network_admin - INFO - Conectando a 172.16.0.3...
+2025-05-17 11:43:59,056 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:43:59,574 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:43:59,580 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:43:59,887 - network_admin - INFO - Conexión exitosa a 172.16.0.3
+2025-05-17 11:44:00,192 - network_admin - INFO - Probando desde Switch7 a 8.8.8.8...
+2025-05-17 11:44:00,192 - network_admin - INFO - Conectando a 172.16.0.2...
+2025-05-17 11:44:00,213 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:44:00,517 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:44:00,521 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:44:00,775 - network_admin - INFO - Conexión exitosa a 172.16.0.2
+2025-05-17 11:44:01,043 - network_admin - INFO - Probando desde Switch8 a 8.8.8.8...
+2025-05-17 11:44:01,043 - network_admin - INFO - Conectando a 192.168.0.130...
+2025-05-17 11:44:01,060 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:44:01,348 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:44:01,358 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:44:01,643 - network_admin - INFO - Conexión exitosa a 192.168.0.130
+2025-05-17 11:44:01,909 - network_admin - INFO - Probando desde Switch9 a 8.8.8.8...
+2025-05-17 11:44:01,909 - network_admin - INFO - Conectando a 192.168.0.2...
+2025-05-17 11:44:01,969 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-17 11:44:02,272 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-17 11:44:02,282 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-17 11:44:02,583 - network_admin - INFO - Conexión exitosa a 192.168.0.2
+2025-05-18 04:08:52,816 - network_admin - INFO - Probando desde R1 a 8.8.8.8...
+2025-05-18 04:08:52,817 - network_admin - INFO - Conectando a 192.168.1.241...
+2025-05-18 04:08:52,838 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-18 04:08:53,150 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-18 04:08:53,171 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-18 04:08:53,419 - network_admin - INFO - Conexión exitosa a 192.168.1.241
+2025-05-18 04:08:53,696 - network_admin - INFO - Probando desde R2 a 8.8.8.8...
+2025-05-18 04:08:53,696 - network_admin - INFO - Conectando a 192.168.0.1...
+2025-05-18 04:08:53,710 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-18 04:08:54,009 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-18 04:08:54,037 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-18 04:08:54,281 - network_admin - INFO - Conexión exitosa a 192.168.0.1
+2025-05-18 04:08:54,536 - network_admin - INFO - Probando desde R3 a 8.8.8.8...
+2025-05-18 04:08:54,536 - network_admin - INFO - Conectando a 192.168.1.246...
+2025-05-18 04:08:54,555 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-18 04:08:55,066 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-18 04:08:55,091 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-18 04:08:55,342 - network_admin - INFO - Conexión exitosa a 192.168.1.246
+2025-05-18 04:08:55,622 - network_admin - INFO - Probando desde Switch5 a 8.8.8.8...
+2025-05-18 04:08:55,622 - network_admin - INFO - Conectando a 172.16.0.4...
+2025-05-18 04:08:55,650 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-18 04:08:56,182 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-18 04:08:56,196 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-18 04:08:56,640 - network_admin - INFO - Conexión exitosa a 172.16.0.4
+2025-05-18 04:08:57,062 - network_admin - INFO - Probando desde Switch6 a 8.8.8.8...
+2025-05-18 04:08:57,063 - network_admin - INFO - Conectando a 172.16.0.3...
+2025-05-18 04:08:57,111 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-18 04:08:57,721 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-18 04:08:57,737 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-18 04:08:58,082 - network_admin - INFO - Conexión exitosa a 172.16.0.3
+2025-05-18 04:08:58,423 - network_admin - INFO - Probando desde Switch7 a 8.8.8.8...
+2025-05-18 04:08:58,423 - network_admin - INFO - Conectando a 172.16.0.2...
+2025-05-18 04:08:58,447 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-18 04:08:58,974 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-18 04:08:58,975 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-18 04:08:59,336 - network_admin - INFO - Conexión exitosa a 172.16.0.2
+2025-05-18 04:08:59,650 - network_admin - INFO - Probando desde Switch8 a 8.8.8.8...
+2025-05-18 04:08:59,650 - network_admin - INFO - Conectando a 192.168.0.130...
+2025-05-18 04:08:59,663 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-18 04:08:59,957 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-18 04:08:59,965 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-18 04:09:00,246 - network_admin - INFO - Conexión exitosa a 192.168.0.130
+2025-05-18 04:09:00,535 - network_admin - INFO - Probando desde Switch9 a 8.8.8.8...
+2025-05-18 04:09:00,536 - network_admin - INFO - Conectando a 192.168.0.2...
+2025-05-18 04:09:00,557 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-18 04:09:00,869 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-18 04:09:00,878 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-18 04:09:01,197 - network_admin - INFO - Conexión exitosa a 192.168.0.2
+2025-05-18 04:09:13,723 - network_admin - INFO - Escaneando interfaces de routers...
+2025-05-18 04:09:13,724 - network_admin - INFO - Conectando a 192.168.1.241...
+2025-05-18 04:09:13,750 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-18 04:09:14,055 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-18 04:09:14,082 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-18 04:09:14,395 - network_admin - INFO - Conexión exitosa a 192.168.1.241
+2025-05-18 04:09:14,544 - network_admin - INFO - Escaneadas 3 interfaces de R1
+2025-05-18 04:09:14,544 - network_admin - INFO - Conectando a 192.168.0.1...
+2025-05-18 04:09:14,571 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-18 04:09:14,864 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-18 04:09:14,881 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-18 04:09:15,156 - network_admin - INFO - Conexión exitosa a 192.168.0.1
+2025-05-18 04:09:15,313 - network_admin - INFO - Escaneadas 6 interfaces de R2
+2025-05-18 04:09:15,313 - network_admin - INFO - Conectando a 192.168.1.246...
+2025-05-18 04:09:15,361 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-18 04:09:15,684 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-18 04:09:15,703 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-18 04:09:15,958 - network_admin - INFO - Conexión exitosa a 192.168.1.246
+2025-05-18 04:09:16,114 - network_admin - INFO - Escaneadas 6 interfaces de R3
+2025-05-18 04:09:16,114 - network_admin - INFO - Escaneando interfaces de switches...
+2025-05-18 04:09:16,114 - network_admin - INFO - Conectando a 172.16.0.4...
+2025-05-18 04:09:16,136 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-18 04:09:16,636 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-18 04:09:16,644 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-18 04:09:16,931 - network_admin - INFO - Conexión exitosa a 172.16.0.4
+2025-05-18 04:09:17,089 - network_admin - INFO - Escaneadas 1 interfaces de Switch5
+2025-05-18 04:09:17,090 - network_admin - INFO - Conectando a 172.16.0.3...
+2025-05-18 04:09:17,126 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-18 04:09:17,663 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-18 04:09:17,677 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-18 04:09:17,979 - network_admin - INFO - Conexión exitosa a 172.16.0.3
+2025-05-18 04:09:18,172 - network_admin - INFO - Escaneadas 1 interfaces de Switch6
+2025-05-18 04:09:18,172 - network_admin - INFO - Conectando a 172.16.0.2...
+2025-05-18 04:09:18,199 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-18 04:09:18,510 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-18 04:09:18,517 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-18 04:09:18,857 - network_admin - INFO - Conexión exitosa a 172.16.0.2
+2025-05-18 04:09:19,003 - network_admin - INFO - Escaneadas 1 interfaces de Switch7
+2025-05-18 04:09:19,003 - network_admin - INFO - Conectando a 192.168.0.130...
+2025-05-18 04:09:19,021 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-18 04:09:19,323 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-18 04:09:19,331 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-18 04:09:19,661 - network_admin - INFO - Conexión exitosa a 192.168.0.130
+2025-05-18 04:09:19,802 - network_admin - INFO - Escaneadas 1 interfaces de Switch8
+2025-05-18 04:09:19,802 - network_admin - INFO - Conectando a 192.168.0.2...
+2025-05-18 04:09:19,823 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-18 04:09:20,115 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-18 04:09:20,122 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-18 04:09:20,451 - network_admin - INFO - Conexión exitosa a 192.168.0.2
+2025-05-18 04:09:20,649 - network_admin - INFO - Escaneadas 1 interfaces de Switch9
+2025-05-19 07:02:12,993 - network_admin - INFO - Escaneando interfaces de routers...
+2025-05-19 07:02:12,995 - network_admin - INFO - Conectando a 192.168.1.241...
+2025-05-19 07:02:13,018 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 07:02:13,339 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 07:02:13,362 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 07:02:13,690 - network_admin - INFO - Conexión exitosa a 192.168.1.241
+2025-05-19 07:02:13,847 - network_admin - INFO - Escaneadas 3 interfaces de R1
+2025-05-19 07:02:13,847 - network_admin - INFO - Conectando a 192.168.0.1...
+2025-05-19 07:02:13,863 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 07:02:14,188 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 07:02:14,228 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 07:02:14,488 - network_admin - INFO - Conexión exitosa a 192.168.0.1
+2025-05-19 07:02:14,627 - network_admin - INFO - Escaneadas 6 interfaces de R2
+2025-05-19 07:02:14,627 - network_admin - INFO - Conectando a 192.168.1.246...
+2025-05-19 07:02:14,649 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 07:02:14,974 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 07:02:15,007 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 07:02:15,251 - network_admin - INFO - Conexión exitosa a 192.168.1.246
+2025-05-19 07:02:15,399 - network_admin - INFO - Escaneadas 6 interfaces de R3
+2025-05-19 07:02:15,400 - network_admin - INFO - Escaneando interfaces de switches...
+2025-05-19 07:02:15,400 - network_admin - INFO - Conectando a 172.16.0.4...
+2025-05-19 07:02:15,424 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 07:02:15,756 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 07:02:15,767 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 07:02:16,142 - network_admin - INFO - Conexión exitosa a 172.16.0.4
+2025-05-19 07:02:16,350 - network_admin - INFO - Escaneadas 1 interfaces de Switch5
+2025-05-19 07:02:16,351 - network_admin - INFO - Conectando a 172.16.0.3...
+2025-05-19 07:02:16,385 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 07:02:16,922 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 07:02:16,936 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 07:02:17,247 - network_admin - INFO - Conexión exitosa a 172.16.0.3
+2025-05-19 07:02:17,405 - network_admin - INFO - Escaneadas 1 interfaces de Switch6
+2025-05-19 07:02:17,405 - network_admin - INFO - Conectando a 172.16.0.2...
+2025-05-19 07:02:17,434 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 07:02:17,762 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 07:02:17,773 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 07:02:18,065 - network_admin - INFO - Conexión exitosa a 172.16.0.2
+2025-05-19 07:02:18,272 - network_admin - INFO - Escaneadas 1 interfaces de Switch7
+2025-05-19 07:02:18,273 - network_admin - INFO - Conectando a 192.168.0.130...
+2025-05-19 07:02:18,308 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 07:02:18,613 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 07:02:18,623 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 07:02:18,935 - network_admin - INFO - Conexión exitosa a 192.168.0.130
+2025-05-19 07:02:19,080 - network_admin - INFO - Escaneadas 1 interfaces de Switch8
+2025-05-19 07:02:19,080 - network_admin - INFO - Conectando a 192.168.0.2...
+2025-05-19 07:02:19,106 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 07:02:19,405 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 07:02:19,413 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 07:02:19,736 - network_admin - INFO - Conexión exitosa a 192.168.0.2
+2025-05-19 07:02:19,914 - network_admin - INFO - Escaneadas 1 interfaces de Switch9
+2025-05-19 08:09:18,352 - network_admin - INFO - Probando desde R1 a 8.8.8.8...
+2025-05-19 08:09:18,352 - network_admin - INFO - Conectando a 192.168.1.241...
+2025-05-19 08:09:18,381 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 08:09:18,686 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 08:09:18,703 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 08:09:18,956 - network_admin - INFO - Conexión exitosa a 192.168.1.241
+2025-05-19 08:09:19,237 - network_admin - INFO - Probando desde R2 a 8.8.8.8...
+2025-05-19 08:09:19,237 - network_admin - INFO - Conectando a 192.168.0.1...
+2025-05-19 08:09:19,263 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 08:09:19,586 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 08:09:19,604 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 08:09:19,842 - network_admin - INFO - Conexión exitosa a 192.168.0.1
+2025-05-19 08:09:20,126 - network_admin - INFO - Probando desde R3 a 8.8.8.8...
+2025-05-19 08:09:20,126 - network_admin - INFO - Conectando a 192.168.1.246...
+2025-05-19 08:09:20,142 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 08:09:20,636 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 08:09:20,654 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 08:09:20,888 - network_admin - INFO - Conexión exitosa a 192.168.1.246
+2025-05-19 08:09:21,156 - network_admin - INFO - Probando desde Switch5 a 8.8.8.8...
+2025-05-19 08:09:21,156 - network_admin - INFO - Conectando a 172.16.0.4...
+2025-05-19 08:09:21,179 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 08:09:21,708 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 08:09:21,715 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 08:09:22,015 - network_admin - INFO - Conexión exitosa a 172.16.0.4
+2025-05-19 08:09:22,354 - network_admin - INFO - Probando desde Switch6 a 8.8.8.8...
+2025-05-19 08:09:22,354 - network_admin - INFO - Conectando a 172.16.0.3...
+2025-05-19 08:09:22,386 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 08:09:22,935 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 08:09:22,946 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 08:09:23,297 - network_admin - INFO - Conexión exitosa a 172.16.0.3
+2025-05-19 08:09:23,630 - network_admin - INFO - Probando desde Switch7 a 8.8.8.8...
+2025-05-19 08:09:23,631 - network_admin - INFO - Conectando a 172.16.0.2...
+2025-05-19 08:09:23,664 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 08:09:24,165 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 08:09:24,175 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 08:09:24,490 - network_admin - INFO - Conexión exitosa a 172.16.0.2
+2025-05-19 08:09:24,821 - network_admin - INFO - Probando desde Switch8 a 8.8.8.8...
+2025-05-19 08:09:24,821 - network_admin - INFO - Conectando a 192.168.0.130...
+2025-05-19 08:09:24,842 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 08:09:25,135 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 08:09:25,141 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 08:09:25,426 - network_admin - INFO - Conexión exitosa a 192.168.0.130
+2025-05-19 08:09:25,733 - network_admin - INFO - Probando desde Switch9 a 8.8.8.8...
+2025-05-19 08:09:25,733 - network_admin - INFO - Conectando a 192.168.0.2...
+2025-05-19 08:09:25,760 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 08:09:26,049 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 08:09:26,056 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 08:09:26,350 - network_admin - INFO - Conexión exitosa a 192.168.0.2
+2025-05-19 08:09:29,417 - network_admin - INFO - Probando desde R1 a 8.8.8.8...
+2025-05-19 08:09:29,417 - network_admin - INFO - Conectando a 192.168.1.241...
+2025-05-19 08:09:29,432 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 08:09:29,746 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 08:09:29,764 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 08:09:30,010 - network_admin - INFO - Conexión exitosa a 192.168.1.241
+2025-05-19 08:09:30,288 - network_admin - INFO - Probando desde R2 a 8.8.8.8...
+2025-05-19 08:09:30,288 - network_admin - INFO - Conectando a 192.168.0.1...
+2025-05-19 08:09:30,304 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 08:09:30,594 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 08:09:30,612 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 08:09:30,862 - network_admin - INFO - Conexión exitosa a 192.168.0.1
+2025-05-19 08:09:40,920 - network_admin - ERROR - Error probando conectividad desde R2 a 8.8.8.8: 
+Pattern not detected: 'R2>' in output.
+
+Things you might try to fix this:
+1. Explicitly set your pattern using the expect_string argument.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+2025-05-19 08:09:41,036 - network_admin - INFO - Probando desde R3 a 8.8.8.8...
+2025-05-19 08:09:41,036 - network_admin - INFO - Conectando a 192.168.1.246...
+2025-05-19 08:09:41,060 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 08:09:41,575 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 08:09:41,597 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 08:09:41,872 - network_admin - INFO - Conexión exitosa a 192.168.1.246
+2025-05-19 08:09:42,169 - network_admin - INFO - Probando desde Switch5 a 8.8.8.8...
+2025-05-19 08:09:42,169 - network_admin - INFO - Conectando a 172.16.0.4...
+2025-05-19 08:09:42,189 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 08:09:42,695 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 08:09:42,704 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 08:09:42,997 - network_admin - INFO - Conexión exitosa a 172.16.0.4
+2025-05-19 08:09:43,300 - network_admin - INFO - Probando desde Switch6 a 8.8.8.8...
+2025-05-19 08:09:43,301 - network_admin - INFO - Conectando a 172.16.0.3...
+2025-05-19 08:09:43,329 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 08:09:43,897 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 08:09:43,914 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 08:09:44,270 - network_admin - INFO - Conexión exitosa a 172.16.0.3
+2025-05-19 08:09:44,677 - network_admin - INFO - Probando desde Switch7 a 8.8.8.8...
+2025-05-19 08:09:44,677 - network_admin - INFO - Conectando a 172.16.0.2...
+2025-05-19 08:09:44,708 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 08:09:45,029 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 08:09:45,037 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 08:09:45,317 - network_admin - INFO - Conexión exitosa a 172.16.0.2
+2025-05-19 08:09:45,622 - network_admin - INFO - Probando desde Switch8 a 8.8.8.8...
+2025-05-19 08:09:45,622 - network_admin - INFO - Conectando a 192.168.0.130...
+2025-05-19 08:09:45,640 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 08:09:45,947 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 08:09:45,960 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 08:09:46,272 - network_admin - INFO - Conexión exitosa a 192.168.0.130
+2025-05-19 08:09:46,590 - network_admin - INFO - Probando desde Switch9 a 8.8.8.8...
+2025-05-19 08:09:46,590 - network_admin - INFO - Conectando a 192.168.0.2...
+2025-05-19 08:09:46,609 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 08:09:46,906 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 08:09:46,913 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 08:09:47,242 - network_admin - INFO - Conexión exitosa a 192.168.0.2
+2025-05-19 12:20:54,654 - network_admin - INFO - Escaneando interfaces de routers...
+2025-05-19 12:20:54,656 - network_admin - INFO - Conectando a 192.168.1.241...
+2025-05-19 12:20:54,687 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 12:20:55,056 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 12:20:55,088 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 12:20:55,359 - network_admin - INFO - Conexión exitosa a 192.168.1.241
+2025-05-19 12:20:55,518 - network_admin - INFO - Escaneadas 3 interfaces de R1
+2025-05-19 12:20:55,518 - network_admin - INFO - Conectando a 192.168.0.1...
+2025-05-19 12:20:55,543 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 12:20:55,900 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 12:20:55,920 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 12:20:56,168 - network_admin - INFO - Conexión exitosa a 192.168.0.1
+2025-05-19 12:20:56,293 - network_admin - INFO - Escaneadas 6 interfaces de R2
+2025-05-19 12:20:56,294 - network_admin - INFO - Conectando a 192.168.1.246...
+2025-05-19 12:20:56,310 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 12:20:56,650 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 12:20:56,675 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 12:20:56,974 - network_admin - INFO - Conexión exitosa a 192.168.1.246
+2025-05-19 12:20:57,129 - network_admin - INFO - Escaneadas 6 interfaces de R3
+2025-05-19 12:20:57,129 - network_admin - INFO - Escaneando interfaces de switches...
+2025-05-19 12:20:57,129 - network_admin - INFO - Conectando a 172.16.0.4...
+2025-05-19 12:20:57,169 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 12:20:57,493 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 12:20:57,538 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 12:20:57,889 - network_admin - INFO - Conexión exitosa a 172.16.0.4
+2025-05-19 12:20:58,096 - network_admin - INFO - Escaneadas 1 interfaces de Switch5
+2025-05-19 12:20:58,096 - network_admin - INFO - Conectando a 172.16.0.3...
+2025-05-19 12:20:58,126 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 12:20:58,460 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 12:20:58,469 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 12:20:58,832 - network_admin - INFO - Conexión exitosa a 172.16.0.3
+2025-05-19 12:20:59,046 - network_admin - INFO - Escaneadas 1 interfaces de Switch6
+2025-05-19 12:20:59,046 - network_admin - INFO - Conectando a 172.16.0.2...
+2025-05-19 12:20:59,068 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 12:20:59,394 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 12:20:59,402 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 12:20:59,662 - network_admin - INFO - Conexión exitosa a 172.16.0.2
+2025-05-19 12:20:59,798 - network_admin - INFO - Escaneadas 1 interfaces de Switch7
+2025-05-19 12:20:59,798 - network_admin - INFO - Conectando a 192.168.0.130...
+2025-05-19 12:20:59,839 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 12:21:00,160 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 12:21:00,160 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 12:21:00,423 - network_admin - INFO - Conexión exitosa a 192.168.0.130
+2025-05-19 12:21:00,604 - network_admin - INFO - Escaneadas 1 interfaces de Switch8
+2025-05-19 12:21:00,605 - network_admin - INFO - Conectando a 192.168.0.2...
+2025-05-19 12:21:00,620 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 12:21:00,962 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 12:21:00,974 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 12:21:01,274 - network_admin - INFO - Conexión exitosa a 192.168.0.2
+2025-05-19 12:21:01,443 - network_admin - INFO - Escaneadas 1 interfaces de Switch9
+2025-05-19 12:21:21,763 - network_admin - INFO - Probando desde R1 a 8.8.8.8...
+2025-05-19 12:21:21,763 - network_admin - INFO - Conectando a 192.168.1.241...
+2025-05-19 12:21:21,782 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 12:21:22,103 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 12:21:22,126 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 12:21:22,392 - network_admin - INFO - Conexión exitosa a 192.168.1.241
+2025-05-19 12:21:22,689 - network_admin - INFO - Probando desde R2 a 8.8.8.8...
+2025-05-19 12:21:22,689 - network_admin - INFO - Conectando a 192.168.0.1...
+2025-05-19 12:21:22,720 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 12:21:23,031 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 12:21:23,055 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 12:21:23,290 - network_admin - INFO - Conexión exitosa a 192.168.0.1
+2025-05-19 12:21:23,575 - network_admin - INFO - Probando desde R3 a 8.8.8.8...
+2025-05-19 12:21:23,584 - network_admin - INFO - Conectando a 192.168.1.246...
+2025-05-19 12:21:23,612 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 12:21:24,135 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 12:21:24,165 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 12:21:24,449 - network_admin - INFO - Conexión exitosa a 192.168.1.246
+2025-05-19 12:21:24,774 - network_admin - INFO - Probando desde Switch5 a 8.8.8.8...
+2025-05-19 12:21:24,774 - network_admin - INFO - Conectando a 172.16.0.4...
+2025-05-19 12:21:24,804 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 12:21:25,352 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 12:21:25,359 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 12:21:25,694 - network_admin - INFO - Conexión exitosa a 172.16.0.4
+2025-05-19 12:21:26,047 - network_admin - INFO - Probando desde Switch6 a 8.8.8.8...
+2025-05-19 12:21:26,048 - network_admin - INFO - Conectando a 172.16.0.3...
+2025-05-19 12:21:26,099 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 12:21:26,660 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 12:21:26,671 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 12:21:27,051 - network_admin - INFO - Conexión exitosa a 172.16.0.3
+2025-05-19 12:21:27,407 - network_admin - INFO - Probando desde Switch7 a 8.8.8.8...
+2025-05-19 12:21:27,408 - network_admin - INFO - Conectando a 172.16.0.2...
+2025-05-19 12:21:27,446 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 12:21:27,982 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 12:21:27,990 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 12:21:28,302 - network_admin - INFO - Conexión exitosa a 172.16.0.2
+2025-05-19 12:21:28,623 - network_admin - INFO - Probando desde Switch8 a 8.8.8.8...
+2025-05-19 12:21:28,623 - network_admin - INFO - Conectando a 192.168.0.130...
+2025-05-19 12:21:28,644 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 12:21:28,956 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 12:21:28,968 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 12:21:29,268 - network_admin - INFO - Conexión exitosa a 192.168.0.130
+2025-05-19 12:21:29,571 - network_admin - INFO - Probando desde Switch9 a 8.8.8.8...
+2025-05-19 12:21:29,572 - network_admin - INFO - Conectando a 192.168.0.2...
+2025-05-19 12:21:29,596 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 12:21:29,910 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 12:21:29,921 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 12:21:30,246 - network_admin - INFO - Conexión exitosa a 192.168.0.2
+2025-05-19 23:07:18,983 - network_admin - INFO - Realizando backup de routers...
+2025-05-19 23:07:19,003 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 23:07:19,336 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 23:07:19,364 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 23:07:20,548 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 23:07:20,850 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 23:07:20,877 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 23:07:22,286 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 23:07:22,792 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 23:07:22,814 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 23:07:24,335 - network_admin - INFO - Realizando backup de switches...
+2025-05-19 23:07:24,369 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 23:07:24,881 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 23:07:24,890 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 23:07:26,357 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 23:07:26,689 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 23:07:26,702 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 23:07:28,163 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 23:07:28,680 - paramiko.transport - INFO - Auth banner: b"\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 23:07:28,689 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 23:07:30,003 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 23:07:30,307 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 23:07:30,318 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-19 23:07:31,607 - paramiko.transport - INFO - Connected (version 1.99, client Cisco-1.25)
+2025-05-19 23:07:32,100 - paramiko.transport - INFO - Auth banner: b"C\r\n**************************************************************************\r\n* IOSv is strictly limited to use for evaluation, demonstration and IOS  *\r\n* education. IOSv is provided as-is and is not supported by Cisco's      *\r\n* Technical Advisory Center. Any use or disclosure, in whole or in part, *\r\n* of the IOSv Software or Documentation to any third party for any       *\r\n* purposes is expressly prohibited except as otherwise authorized by     *\r\n* Cisco in writing.                                                      *\r\n**************************************************************************"
+2025-05-19 23:07:32,109 - paramiko.transport - INFO - Authentication (password) successful!

@@ -1,0 +1,57 @@
+devices:
+  routers:
+    R1:
+      ip: 192.168.1.241
+      type: cisco_ios
+      username: admin
+      password: cisco
+    R2:
+      ip: 192.168.0.1
+      type: cisco_ios
+      username: admin
+      password: cisco
+    R3:
+      ip: 192.168.1.246
+      type: cisco_ios
+      username: admin
+      password: cisco
+  
+  switches:
+    Switch5:
+      ip: 172.16.0.4
+      type: cisco_ios
+      username: admin
+      password: cisco
+    Switch6:
+      ip: 172.16.0.3
+      type: cisco_ios
+      username: admin
+      password: cisco
+    Switch7:
+      ip: 172.16.0.2
+      type: cisco_ios
+      username: admin
+      password: cisco
+    Switch8:
+      ip: 192.168.0.130
+      type: cisco_ios
+      username: admin
+      password: cisco
+    Switch9:
+      ip: 192.168.0.2
+      type: cisco_ios
+      username: admin
+      password: cisco
+
+# Configuracion SNMP
+snmp:
+  community: public
+  version: v2c
+
+# Configuracion REST (para futuros endpoints)
+rest_api:
+  base_url: http://172.16.0.10:5000
+  endpoints:
+    devices: /api/devices
+    config: /api/config
+    monitor: /api/monitor
