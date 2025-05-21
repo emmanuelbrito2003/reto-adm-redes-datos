@@ -1,12 +1,18 @@
 # reto-adm-redes-datos
 Proyecto de reto final de administración de redes de datos 
+
 🌐 Proyecto: Administración de Redes de Datos
+
 Este repositorio contiene la implementación completa del proyecto "Reto Final" para la asignatura de Administración de Redes de Datos. El proyecto desarrolla una infraestructura de red empresarial desde la configuración básica hasta la automatización programática.
+
 🔄 Topología de Red
-Mostrar imagen
-Para visualizar la imagen de la topología, coloque una imagen llamada "topologia.png" en una carpeta "img" dentro de su repositorio.
+
+
+
 📋 Descripción del Proyecto
+
 El proyecto está estructurado en tres partes progresivas:
+
 🏗️ Parte I: Infraestructura Básica
 
 Topología jerárquica de 3 capas (Core, Distribution, Access)
@@ -37,10 +43,15 @@ Automatización: Python, Flask, API REST
 Servicios: systemd, rsyslog, chrony
 
 📁 Estructura del Repositorio
+
 ├── parte1/             # Configuraciones de equipos de red
+
 ├── parte2/             # Scripts de monitoreo y configuración Zabbix
+
 ├── parte3/             # Scripts Python y API REST
+
 ├── docs/               # Documentación adicional
+
 └── img/                # Imágenes para documentación
 📋 Requisitos
 
